@@ -65,6 +65,7 @@
 	],
 	"url": "https://github.com/chr-1x/foundryvtt-award-xp",
 	"manifest": "https://raw.githubusercontent.com/chr-1x/foundryvtt-award-xp/master/module.json",
+	"download": "https://github.com/chr-1x/foundryvtt-award-xp/archive/refs/tags/1.6.0-fork.zip",
 	"readme": "https://github.com/chr-1x/foundryvtt-award-xp/blob/master/README.md",
 	"changelog": "https://github.com/chr-1x/foundryvtt-award-xp/blob/master/CHANGELOG.md",
 	"bugs": "https://github.com/chr-1x/foundryvtt-award-xp/issues",
