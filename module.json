@@ -2,7 +2,7 @@
 	"id": "award-xp",
 	"title": "Award XP",
 	"description": "Award Experience to the group, the value of which will awarded to each player, or divided evenly between the players and automatically update their character sheets.",
-	"version": "1.5.1",
+	"version": "1.6.0-fork",
 	"compatibility": {
 		"minimum": "9",
 		"verified": "12"
