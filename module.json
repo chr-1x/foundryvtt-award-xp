@@ -12,6 +12,10 @@
 			"name": "Manuel Vögele",
 			"email": "develop@manuel-voegele.de",
 			"discord": "Stäbchenfisch#5107"
+		},
+		{
+			"name": "khr",
+			"email": "foundry.develop@chronal.net",
 		}
 	],
 	"esmodules": [
@@ -59,11 +63,10 @@
 			"path": "lang/pt-BR.json"
 		}
 	],
-	"url": "https://github.com/manuelVo/foundryvtt-award-xp",
-	"manifest": "https://raw.githubusercontent.com/manuelVo/foundryvtt-award-xp/master/module.json",
-	"download": "https://github.com/manuelVo/foundryvtt-award-xp/archive/v1.5.1.zip",
-	"readme": "https://github.com/manuelVo/foundryvtt-award-xp/blob/master/README.md",
-	"changelog": "https://github.com/manuelVo/foundryvtt-award-xp/blob/master/CHANGELOG.md",
-	"bugs": "https://github.com/manuelVo/foundryvtt-award-xp/issues",
+	"url": "https://github.com/chr-1x/foundryvtt-award-xp",
+	"manifest": "https://raw.githubusercontent.com/chr-1x/foundryvtt-award-xp/master/module.json",
+	"readme": "https://github.com/chr-1x/foundryvtt-award-xp/blob/master/README.md",
+	"changelog": "https://github.com/chr-1x/foundryvtt-award-xp/blob/master/CHANGELOG.md",
+	"bugs": "https://github.com/chr-1x/foundryvtt-award-xp/issues",
 	"allowBugReporter": true
 }
